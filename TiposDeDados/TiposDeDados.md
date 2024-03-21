@@ -1,13 +1,16 @@
 <div class="header">
-    <img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="100"/> The Script.
+    <img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="100"/> The Script!
 
 # _Tipos de Dados_
 
 </div>
 
-- [Tipos](Tipos)
+- [Tipos](#tipos)
+  - [Tipo de Valor](#tipo-de-valor)
+  - [Tipo de Referência](#tipo-de-referência)
+- [Classes e Objetos](#classes-e-objetos)
 
-<br>
+</br>
 
 # Tipos
 
